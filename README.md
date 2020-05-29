@@ -12,6 +12,6 @@ author={Bessghaier, Narjes and Ouni, Ali and Mkaouer, Mohamed Wiem},
 
 booktitle={International Conference on Services Computing}, 
 
-pages={}
+pages={},
 
 year={2020}}
