@@ -1,0 +1,6 @@
+﻿Name,Period,#Smells,#Releases,#KLOCs,Link
+phpMyAdmin ,2014-2020 ,"60,695",55,228-328 ,https://github.com/phpmyadmin/phpmyadmin 
+Joomla ,2011-2019 ,"75,616",34,271-662 ,https://github.com/joomla/joomla-cms
+WordPress ,2005-2019 ,"106,962",74,37-391 ,https://github.com/WordPress/WordPress
+Piwik ,2010-2020 ,"39,896",38,242-374 ,https://github.com/matomo-org/matomo 
+Laravel ,2012-2020 ,"1,647",22,12-40 ,https://github.com/laravel/laravel
