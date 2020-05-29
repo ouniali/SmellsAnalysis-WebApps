@@ -4,7 +4,7 @@ This is a replication package of the article titled "On the Diffusion and Impact
 
 To cite this paper please insert the following bibtex code in your bibliography file:
 
-@article{bessghaier2020, 
+@article{bessghaier2020diffusion, 
 
 title={On the Diffusion and Impact of Code Smells in Web Software Applications}, 
 
